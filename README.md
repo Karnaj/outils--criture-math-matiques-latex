@@ -1,1 +1,1 @@
-# outils--criture-math-matiques-latex
+# Outils pour l’écriture des mathématiques avec LaTeX
